@@ -3,8 +3,8 @@ An updated list of public BitTorrent trackers
 ##### Updated 2017-03-19 00:00:03
 *These lists are automatically updated every day:*
 
+* trackers_all (519 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
-* trackers_all (62 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 * trackers_all_udp (38 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
 * trackers_all_http (24 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
 * trackers_all_https (0 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
@@ -23,4 +23,5 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 * Any of the trackers is not working properly? => [Open a new issue](https://github.com/ngosang/trackerslist/issues/new)
 
 ##### Contact
+leproide [@] paranoici [.org]
 ngosang [@] hotmail [.es]
