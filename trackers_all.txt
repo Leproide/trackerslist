@@ -1,3 +1,4 @@
+udp://zephir.monocul.us:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
@@ -505,6 +506,5 @@ udp://tracker4.piratux.com:6969/announce
 udp://tv.tracker.prq.to:80/announce
 udp://vip.tracker.prq.to:80/announce
 udp://www.eddie4.nl:6969/announce
-udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://tracker.tntvillage.scambioetico.org:2710/announce
