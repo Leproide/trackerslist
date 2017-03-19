@@ -4,5 +4,3 @@
 
 ##### Contact
 leproide [@] paranoici [.org]
-
-ngosang [@] hotmail [.es]
